@@ -1,0 +1,22 @@
+PODS:
+  - SwiftMessages (9.0.4):
+    - SwiftMessages/App (= 9.0.4)
+  - SwiftMessages/App (9.0.4)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - SwiftMessages
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - SwiftMessages
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  SwiftMessages: 082ed63613a49fa8e749cd6000bb0a8b9bbc736f
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: ba3fce68b8573c8a33c90024631fa7ee403a8f6b
+
+COCOAPODS: 1.11.2
